@@ -8,3 +8,13 @@ less 在 src/style/..
 ## 功能
 - less 编译
 - 实时刷新
+
+## Start
+- 安装包 
+```
+cnpm i 
+```
+- 运行
+```
+gulp
+```
